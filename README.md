@@ -34,6 +34,5 @@ Si l'erreur n'est pas écite si dessus  il suffit dans la plupart des cas d'effa
 
 Si cela ne fonctione toujours pas effacez votre "Cache d'application" (Cookies, Stockage, etc.) pour https://chat.openai.com.
 
-Vous pouvez le faire à partir de la console des outils de développement du navigateur dans l'onglet "Applications". [Main Activation Process.md].
-
+Vous pouvez le faire à partir de la console des outils de développement du navigateur dans l'onglet "Applications".
 

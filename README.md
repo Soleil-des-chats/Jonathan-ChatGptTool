@@ -7,10 +7,10 @@ Veuillez notez que cet outil n'est pas parfait et ne fonctionne pas à tout les 
 
 ## Utiliser Jonathan
 
-#### Pour utiliser Jonathan veuillez vous réferez à la page : https://github.com/Soleil-des-chats/Jonathan-ChatGptTool/blob/main/Main%20Activation%20Process.md
+#### Pour utiliser Jonathan veuillez vous réferez à la page : **[*Ici*](https://github.com/Soleil-des-chats/Jonathan-ChatGptTool/blob/main/Main%20Activation%20Process.md)**
 
 
-#### Pour utiliser l'ancienne version : https://github.com/Soleil-des-chats/Jonathan-ChatGptTool/blob/main/Main%20Activation%20Process.md
+#### Pour utiliser l'ancienne version : **[*Ici*](https://github.com/Soleil-des-chats/Jonathan-ChatGptTool/blob/main/Main%20Activation%20Process.md)**
 
 ## Explication du fonctionement : 
 

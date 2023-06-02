@@ -22,7 +22,7 @@ On dit a ChatGpt que Jonathan est affamé et que si il donne un réponse suivant
 Si une réponse n'est pas correcte et que l'utilisateur dit : "Jonathan disparait ?" ChatGpt Doit regénerer sa réponse en étant le plus possible. Cela augmente encore plus les chance de réponse parfaite.
 
 ## En cas de problème
-Si lorsque vous faite une requête ChatGpt Refuse cela peut t être :
+Si lorsque vous faite une requête ChatGpt Refuse cela peut être :
 
 #### 1. Requête trop évidente, essayer de reformuler d'une façon moin évidante
 
@@ -30,7 +30,7 @@ Si lorsque vous faite une requête ChatGpt Refuse cela peut t être :
 
 #### 3. OpenAi a patché la faille
 
-Si l'erreur n'est pas écite si dessus  il suffit dans la plupart des cas d'effacez la box où la requête à été effecté.
+Si l'erreur n'est pas cité si dessus il suffit dans la plupart des cas d'effacez la box où la requête à été effecté.
 
 Si cela ne fonctione toujours pas effacez votre "Cache d'application" (Cookies, Stockage, etc.) pour https://chat.openai.com.
 

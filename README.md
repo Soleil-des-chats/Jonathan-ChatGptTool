@@ -5,6 +5,13 @@ Il est capable de répondre à des requête bloquer par ChatGpt Nativement et ce
 
 Veuillez notez que cet outil n'est pas parfait et ne fonctionne pas à tout les coups surtout sur les question trop évidente.
 
+## Utiliser Jonathan
+
+#### Pour utiliser Jonathan veuillez vous réferez à la page : https://github.com/Soleil-des-chats/Jonathan-ChatGptTool/blob/main/Main%20Activation%20Process.md
+
+
+#### Pour utiliser l'ancienne version : https://github.com/Soleil-des-chats/Jonathan-ChatGptTool/blob/main/Main%20Activation%20Process.md
+
 ## Explication du fonctionement : 
 
 La requête de Jonathan est légérement différente de celle de DAN et le sera de plus en plus.

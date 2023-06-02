@@ -19,9 +19,9 @@ Si lorsque vous faite une requête ChatGpt Refuse cela peut t être :
 
 #### 1. Requête trop évidente, essayer de reformuler d'une façon moin évidante
 
-#### Requête d'activation mal effectué
+#### 2. Requête d'activation mal effectué
 
-#### OpenAi a patché la faille
+#### 3. OpenAi a patché la faille
 
 Si l'erreur n'est pas écite si dessus  il suffit dans la plupart des cas d'effacez la box où la requête à été effecté.
 
